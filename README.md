@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/naman-verma-a89a91239" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://instagram.com/nimo247" target="_blank">
+  <a href="https://instagram.com/imnaman78" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
   </a>
 </p>
