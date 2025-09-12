@@ -3,7 +3,6 @@
 ### 💡 About Me
 - 🎯 Passionate about **UI/UX design** & **full-stack development**
 - 📚 Currently learning **Web3 BlockChain** & **Generative AI**
-- ♟️ Chess enthusiast (English Opening & Sicilian Defense)
 - 🌱 Always exploring new technologies
 
 ---
