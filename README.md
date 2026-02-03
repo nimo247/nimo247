@@ -23,19 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimo247&show_icons=true&locale=en&theme=tokyonight" alt="nimo247" />
-</p>
-
----
-
-### 📌 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimo247&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📬 Contact with Me
 <p align="left">
