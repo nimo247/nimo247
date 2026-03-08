@@ -1,35 +1,64 @@
-## Hey there 👋 I'm Naman — an open source contributor from Delhi.
+<div align="center">
 
-### 💡 About Me
-- 🎯 Passionate about **UI/UX design** & **full-stack development**
-- 📚 Currently learning **Web3 BlockChain** & **Generative AI**
-- 🌱 Always exploring new technologies
+<!-- Text-based Header -->
+<h1>👋 Hey, I'm Naman Verma</h1>
+<h3>🤖 AI/ML Developer &nbsp;·&nbsp; 🌐 Full-Stack Engineer &nbsp;·&nbsp; 🌱 Open Source Contributor</h3>
+<br/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=100&lines=🤖+LangChain+%7C+OpenAI+%7C+RAG+%7C+Computer+Vision;🌐+Next.js+%7C+FastAPI+%7C+WebRTC+%7C+PostgreSQL;⛓️+Exploring+Web3+%26+Generative+AI;📍+Open+to+freelance+AI%2FML+projects+✅)](https://git.io/typing-svg)
+
+
+
+</div>
 
 ---
 
-### 🚀 Skills & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/>
+## 🛠️ Skills & Tools
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### 🌐 Full-Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,postgres,docker,supabase,nodejs&theme=dark" />
+</p>
+
+### 💻 Languages & Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,git,github,vscode,gcp&theme=dark" />
 </p>
 
 ---
 
 
-### 📬 Contact with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/naman-verma-a89a91239" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/naman-verma">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/imnaman78" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
+  &nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  &nbsp;
+  <a href="https://huggingface.co/nimo247">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>⚡ <i>"Automating the world, one pipeline at a time."</i> — Built with ❤️ from Delhi 🇮🇳</sub>
+</div>
