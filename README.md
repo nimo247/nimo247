@@ -60,5 +60,4 @@
 <br/>
 
 <div align="center">
-  <sub>⚡ <i>"Automating the world, one pipeline at a time."</i> — Built with ❤️ from Delhi 🇮🇳</sub>
-</div>
+  
