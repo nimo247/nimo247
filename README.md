@@ -6,11 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+production-oriented+AI+and+backend+systems;Real-time+platforms+with+Go%2C+FastAPI+and+Next.js;Open+to+SWE%2C+Backend+and+AI%2FML+opportunities)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman_Verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimo247)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-DOMAIN.me)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_WORK_EMAIL)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-nimo247-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/nimo247)
-
 </div>
 
 ---
