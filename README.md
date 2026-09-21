@@ -2,7 +2,7 @@
 
 <h1>Hey, I'm Naman Verma 👋</h1>
 
-### AI & Backend Developer · Full-Stack Engineer · ECE @ NSUT '28
+### AI & Backend Developer · Full-Stack Engineer · NSUT '28
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+production-oriented+AI+and+backend+systems;Real-time+platforms+with+Go%2C+FastAPI+and+Next.js;Open+to+SWE%2C+Backend+and+AI%2FML+opportunities)](https://git.io/typing-svg)
 
