@@ -1,63 +1,72 @@
 <div align="center">
 
-<!-- Text-based Header -->
-<h1>👋 Hey, I'm Naman Verma</h1>
-<h3>🤖 AI/ML Developer &nbsp;·&nbsp; 🌐 Full-Stack Engineer &nbsp;·&nbsp; 🌱 Open Source Contributor</h3>
-<br/>
+<h1>Hey, I'm Naman Verma 👋</h1>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=100&lines=🤖+LangChain+%7C+OpenAI+%7C+RAG+%7C+Computer+Vision;🌐+Next.js+%7C+FastAPI+%7C+WebRTC+%7C+PostgreSQL;⛓️+Exploring+Web3+%26+Generative+AI;📍+Open+to+freelance+AI%2FML+projects+✅)](https://git.io/typing-svg)
+### AI & Backend Developer · Full-Stack Engineer · ECE @ NSUT '28
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+production-oriented+AI+and+backend+systems;Real-time+platforms+with+Go%2C+FastAPI+and+Next.js;Open+to+SWE%2C+Backend+and+AI%2FML+opportunities)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman_Verma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimo247)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-DOMAIN.me)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_WORK_EMAIL)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-nimo247-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/nimo247)
 
 </div>
 
 ---
 
-## 🛠️ Skills & Tools
+## About Me
 
-### 🤖 AI / ML
+- 🎓 Third-year **Electronics & Communication Engineering** student at **NSUT, New Delhi** — graduating May 2028.
+- ⚙️ I build **backend, real-time and AI-powered products**, with a focus on reliability, security and useful engineering.
+- 🔬 Currently exploring **chipless RFID systems** through undergraduate research in NSUT's RF Lab.
+- 🧩 Built **15+ client projects** involving full-stack development, AI integrations and workflow automation.
+- 🤝 Open to **SWE/backend internships, AI/ML opportunities, research collaborations and select freelance projects**.
+
+## Featured Work
+
+| Project | What I Built | Core Stack |
+|---|---|---|
+| **[Artha — Algorithmic Trading Platform](https://artha-consi.live)** | Competition platform with a Go order-matching engine, isolated strategy execution, public/private evaluation and risk metrics for 50+ teams. | Go, FastAPI, PostgreSQL, Redis, Docker, MinIO |
+| **[Live Interview Platform](https://github.com/nimo247/Live-Interview-Platform)** | Collaborative interview environment with video calls, shared code editor, whiteboard and an LLM assistant. | Next.js, FastAPI, WebRTC, Socket.IO, Monaco |
+| **[Payment Recovery Orchestrator](https://github.com/nimo247/Razorpay-link-Split)** | Event-driven recovery system for incomplete payments with signed webhooks, replay protection and deterministic LLM validation. | FastAPI, PostgreSQL, HMAC, LLMs |
+| **[Hand Tremor Analyzer](https://github.com/nimo247/Hand-Tremor-Analyzer)** | Browser-based tremor assessment using landmark tracking, FFT analysis, calibration and UPDRS-aligned scoring. | Python, MediaPipe, OpenCV, SciPy |
+
+## Tech I Work With
+
+### Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,go&theme=dark" alt="Python, C++, TypeScript, JavaScript and Go" />
 </p>
 
-### 🌐 Full-Stack
+### Backend, Web & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,postgres,docker,supabase,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,postgres,redis,docker,supabase,gcp,git&theme=dark" alt="Backend, web and infrastructure tools" />
 </p>
 
-### 💻 Languages & Dev Tools
+### AI, ML & Computer Vision
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,git,github,vscode,gcp&theme=dark" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
 </p>
+
+## GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nimo247&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Naman's GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=nimo247&theme=github-dark-blue&hide_border=true" alt="Naman's GitHub streak" />
+</div>
 
 ---
 
-
-
-## 📫 Let's Connect
-
 <div align="center">
-  <a href="https://linkedin.com/in/naman-verma">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/nimo247">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  </a>
+
+### Let's build something useful.
+
 </div>
-
-<br/>
-
-<div align="center">
-  
