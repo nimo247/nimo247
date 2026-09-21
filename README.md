@@ -12,10 +12,7 @@
 
 ## About Me
 
-- 🎓 Third-year **Electronics & Communication Engineering** student at **NSUT, New Delhi** — graduating May 2028.
 - ⚙️ I build **backend, real-time and AI-powered products**, with a focus on reliability, security and useful engineering.
-- 🔬 Currently exploring **chipless RFID systems** through undergraduate research in NSUT's RF Lab.
-- 🧩 Built **15+ client projects** involving full-stack development, AI integrations and workflow automation.
 - 🤝 Open to **SWE/backend internships, AI/ML opportunities, research collaborations and select freelance projects**.
 
 ## Featured Work
