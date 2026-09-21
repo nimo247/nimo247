@@ -51,7 +51,6 @@
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nimo247&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Naman's GitHub statistics" />
   <img height="165" src="https://streak-stats.demolab.com/?user=nimo247&theme=github-dark-blue&hide_border=true" alt="Naman's GitHub streak" />
 </div>
 
